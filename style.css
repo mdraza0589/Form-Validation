@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 2px solid;
+    padding: 40px;
+    background-color: aquamarine;
+}
+input{
+    padding: 15px;
+    margin: 5px;
+    border-radius: 20px;
+}
+#button{
+    cursor: pointer;
+}
